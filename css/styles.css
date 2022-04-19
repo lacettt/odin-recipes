@@ -6,7 +6,7 @@
 
   li {
 
-     font-family: "helvetica"; font-style: italic; font-size: 30px;
+     font-family: "helvetica"; font-size: 30px;
 
     }
 
@@ -28,6 +28,11 @@
     p {
 
         font-family: Helvetica, sans-serif; font-size: 30px;
+    }
+
+    #nav-menu {
+
+        font-family: "Courier New"; font-size: 30px; font-weight: 700; 
     }
 
     .page-text {
