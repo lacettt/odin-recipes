@@ -1,6 +1,6 @@
   body {
 
-    background-color: #12ffff;
+    background-color: #b1ffff;
   }
 
 
@@ -12,12 +12,13 @@
 
 
     h1 { 
+    display: flex;
 
-    font-family: Helvetica; font-size: 95px;
+    font-family: 'Courier New', Courier, monospace; font-size: 40px;
     
     background-color: rgb(0, 89, 255); color: azure; text-align: center;
 
-    padding: 25px; margin: 50px;
+    padding: 0 25px 0 25px; margin: 25px 15px 25px 15px; border-radius: 35px;
 
     }
     
