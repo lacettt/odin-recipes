@@ -87,10 +87,23 @@
 
         font-size: 25px; font-family: helvetica; font-weight: 700;
         
-        background-color: rgb(222, 247, 113); 
+        background-color: rgb(60, 4, 97); color: rgb(255, 255, 255);
         
-        padding: 10px; margin: 10px; border: 10px solid rgb(245, 166, 166);
+        padding: 10px; margin: 10px; border: 5px solid rgb(255, 238, 0);
+        border-radius: 15px;
     }
+
+    .button:hover {
+
+      font-size: 25px; font-family: helvetica; font-weight: 700;
+      
+      background-color: blueviolet;
+      
+      padding: 10px; margin: 10px; border: 5px solid rgb(255, 248, 154);
+      border-radius: 15px;
+  }
+
+
 
     .nav-recipes{
 
