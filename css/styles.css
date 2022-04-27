@@ -1,17 +1,12 @@
   body {
 
     background-color: #d8ffff;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
   }
 
-
-  li {
-
-     font-family: "helvetica"; font-size: 30px;
-
-    }
-
-
-    h1 { 
+  h1 { 
 
     font-family: 'Courier New', Courier, monospace; font-size: 40px;
     
@@ -30,8 +25,20 @@
       width: 550px; padding: 5px; margin: auto; border-radius: 35px;
   
       }
-    
 
+  div {
+
+  
+  }
+
+
+  li {
+
+     font-family: "helvetica"; font-size: 30px;
+
+    }
+
+    
     .link-text { 
       
       font-family: 'Courier New', Courier, monospace; font-weight: bold; font-style: normal;
@@ -73,6 +80,7 @@
     .cover-image{
 
       display: flex; flex-direction: row;
+      
     }
 
     .button {
