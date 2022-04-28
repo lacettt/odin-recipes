@@ -1,6 +1,6 @@
   body {
 
-    background-color: #d8ffff;
+    background-color: #fef6e4;
     margin: 0;
     width: 100vw;
     height: 100vh;
@@ -10,9 +10,9 @@
 
     font-family: 'Courier New', Courier, monospace; font-size: 40px;
     
-    background-color: rgb(0, 89, 255); color: azure; text-align: center;
+    background-color: #8bd3dd; color: azure; text-align: center;
 
-    width: 550px; padding: 5px; margin: auto; border-radius: 35px;
+    width: 550px; padding: 5px; padding-top: 15px; margin: auto; margin-top: 25px; border-radius: 35px;
 
     }
 
@@ -20,43 +20,82 @@
 
       font-family: 'Courier New', Courier, monospace; font-size: 40px;
       
-      background-color: rgb(255, 225, 0); color: rgb(52, 52, 52); text-align: center;
+      background-color: #f582ae; color: azure; text-align: center;
   
-      width: 550px; padding: 5px; margin: auto; border-radius: 35px;
+      width: 550px; padding: 5px; margin: auto; margin-top: 25px; padding-top: 15px; border-radius: 35px;
   
+      }
+
+      .nav-recipes{
+
+        display: flex; flex-direction: row; gap: 25px;
+        margin: 25px;
+      }
+  
+      .recipe-item{
+  
+        font-size: 30px; font-weight: 700; font-family: sans-serif;
+        background-color:#f582ae;
+        padding: 10px; border-radius: 10px;
+      }
+  
+      .recipe-item:hover{
+  
+        font-size: 30px; font-weight: 700; font-family: sans-serif;
+        background-color: #8bd3dd; color: aliceblue;
+        padding: 10px; border-radius: 10px;
       }
 
 
   li {
 
-     font-family: "helvetica"; font-size: 30px;
+     font-family: "helvetica"; font-size: 30px; color: #001858;
 
-    }
-
-    
-    .link-text { 
-      
-      font-family: 'Courier New', Courier, monospace; font-weight: bold; font-style: normal;
-    
     }
 
     p {
 
-        font-family: Helvetica, sans-serif; font-size: 30px;
+    font-family: Helvetica, sans-serif; font-size: 30px;
     }
 
-    #nav-menu {
+    a:link, a:visited {
 
-        display: flex; 
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        font-size: 30px; font-weight: 700; 
-        background-color: rgb(136, 65, 159); 
-        width: 750px; border-radius: 15px; margin: 25px;
+      color: rgb(255, 255, 255); text-decoration: none;
     }
+
+
+    .inf-link{
+
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold; font-style: normal;
+    }
+
+    .inf-link:hover{
+
+      color: #8bd3dd;
+    }
+
+    .nav-menu {
+
+    display: flex; flex-direction: column; width: 950px;
+    }
+
+    .nav-item{
+      
+      background-color: #f582ae; border-radius: 15px; margin: 15px; font-weight: 700;
+      font-family: "helvetica"; font-size: 30px; color: #001858;  padding: 15px; 
+  }
+
+  .inf-link:hover{
+      
+    background-color: #8bd3dd; border-radius: 10px;
+    font-family: "helvetica"; padding: 5px; color:azure; 
+}
+
 
     .page-text {
 
-        font-family: 'Courier New', Courier, monospace; font-size: 30px;
+      font-family: 'Courier New', Courier, monospace; font-size: 30px;
     }
     
     img {
@@ -92,42 +131,3 @@
       padding: 10px; margin: 10px; border: 5px solid rgb(255, 248, 154);
       border-radius: 15px;
   }
-
-
-
-    .nav-recipes{
-
-      display: flex; flex-direction: row; gap: 25px;
-      margin: 25px;
-    }
-
-    .recipe-item{
-
-      font-size: 30px; font-weight: 700; font-family: sans-serif;
-      background-color: rgb(109, 0, 136);
-      padding: 10px; border-radius: 10px;
-    }
-
-    .recipe-item:hover{
-
-      font-size: 30px; font-weight: 700; font-family: sans-serif;
-      background-color: rgb(29, 16, 76); color: aliceblue;
-      padding: 10px; border-radius: 10px;
-    }
-
-    a:link, a:visited {
-
-      color: rgb(235, 235, 235); text-decoration: none;
-    }
-
-
-    .inf-link{
-
-      font-family: 'Courier New', Courier, monospace;
-      font-weight: bold; font-style: normal;
-    }
-
-    .inf-link:hover{
-
-      color: rgb(255, 208, 55);
-    }
