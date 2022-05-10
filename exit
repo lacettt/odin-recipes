@@ -1,0 +1,143 @@
+[33mcommit 4bdfd6efe3a77145f444dfd8de425416273eeeb1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Thu Apr 28 21:48:24 2022 -0300
+
+    update v1.6 - CSS and UI modifications
+
+[33mcommit 4da8203609fc67d04945c8b633dd3846740d58e2[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Thu Apr 28 02:48:59 2022 -0300
+
+    update v1.5: CSS colors changes and improved buttons
+
+[33mcommit 32fd0dd510cd42a0146e4edd53c52c88f1e45061[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Wed Apr 27 20:52:29 2022 -0300
+
+    css updates
+
+[33mcommit e049e8ad0c2c55b5af7d90f99cca32f5e4c29187[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Wed Apr 27 20:35:08 2022 -0300
+
+    update v1.4 - css home return button
+
+[33mcommit 6f5094b993e9a904ceed77895cbcf062328e7723[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Wed Apr 27 16:11:55 2022 -0300
+
+    css update v1.3 - CSS design updates
+
+[33mcommit 2a9c9007fddb2b634fc449bdf3b234da509e26a1[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Wed Apr 27 15:59:49 2022 -0300
+
+    css update v1.2 - CSS design updates + hover functions added + nav bar links added
+
+[33mcommit 898c23791ac92198cd708a6227bf6aef7ceb7555[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Mon Apr 25 20:31:18 2022 -0300
+
+    css modifications
+
+[33mcommit a4e27d0150c6f70b11560678701b7fd2cb142636[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Wed Apr 20 01:42:39 2022 -0300
+
+    css modifications v1.1 (padding, margin, border...)
+
+[33mcommit 771f79270277aed2532143bc103687bc85c330c6[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Tue Apr 19 18:04:32 2022 -0300
+
+    css updates v1
+
+[33mcommit 40009fe2e0e135be3134ab0e45ec2f6fb3af32bf[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Tue Apr 19 18:04:05 2022 -0300
+
+    css updates v1
+
+[33mcommit c1936dad4954b3935da195fcecc71c70b06e7cc4[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Tue Apr 19 16:46:54 2022 -0300
+
+    css transfer to css stylesheet file
+
+[33mcommit c4d1005414439937ca959e51531a145e18dd3f1d[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Tue Apr 19 16:44:51 2022 -0300
+
+    css folder and file created
+
+[33mcommit 9b814e591d430ae5807b2bf66624505139081922[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Tue Apr 19 13:48:47 2022 -0300
+
+    home button added to pages
+
+[33mcommit dff6afc3f052016c89d569cf6d73e665d1de49c0[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Tue Apr 19 13:42:17 2022 -0300
+
+    CSS changes
+
+[33mcommit 46130dba4bea8fd0dad5b85221ed0338b86ed01d[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Tue Apr 19 13:35:45 2022 -0300
+
+    CSS aditions on all pages
+
+[33mcommit b1f3403cb3e63bae95ee63d888bb7fd3aee4d0b1[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Mon Apr 18 20:29:32 2022 -0300
+
+    css organization and class inserts
+
+[33mcommit ac6a3b8a52199ae2b23f5ec142910e3fc4accda8[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Mon Apr 18 19:28:15 2022 -0300
+
+    CSS aplication on fonts
+
+[33mcommit 76479ad8bd53290d58a882682de1ea39be36adca[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Mon Apr 18 19:11:12 2022 -0300
+
+    website cover correction
+
+[33mcommit cab5adb11e7449b0951cba8637f7c5ffaf6c9ce1[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Mon Apr 18 19:07:40 2022 -0300
+
+    cover image
+
+[33mcommit 82b17b613c7508c98d649696b279525b45f87a4f[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Mon Apr 18 19:07:08 2022 -0300
+
+    cover added to homepage
+
+[33mcommit b5e5b2ac4778c0ca6523cd54af15c57a7e83c3c2[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Mon Apr 18 17:00:47 2022 -0300
+
+    line remove
+
+[33mcommit dd57d242e9aa6c13c7ae657805519f6abbe788e9[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Mon Apr 18 16:21:08 2022 -0300
+
+    added more pages to index.html
+
+[33mcommit 5c204c182827fc8de93cadfb641436f7bfee8875[m
+Author: matheuslacet <matheus.lacet@hotmail.com>
+Date:   Thu Apr 14 02:00:12 2022 -0300
+
+    Index modification and lasagna recipe adition
+
+[33mcommit 09e9e883291933397b4b80e54c514e5f1228194d[m
+Author: matheuslacet <57505761+matheuslacet@users.noreply.github.com>
+Date:   Thu Apr 14 01:28:11 2022 -0300
+
+    Initial commit
